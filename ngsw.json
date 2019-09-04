@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1567631006022,
+  "timestamp": 1567631423635,
   "index": "https://Ouael-ben.github.io/PWAAPP/index.html",
   "assetGroups": [
     {
@@ -47,7 +47,7 @@
     "https://Ouael-ben.github.io/PWAAPP/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "https://Ouael-ben.github.io/PWAAPP/es2015-polyfills.bda95d5896422d031328.js": "1612fe8f7e8e0c856f0885ff179e93363c67834f",
     "https://Ouael-ben.github.io/PWAAPP/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "https://Ouael-ben.github.io/PWAAPP/index.html": "1b6bfe0f1cff3c6ca19d9fc9ebdeafde8069260f",
+    "https://Ouael-ben.github.io/PWAAPP/index.html": "be164d7abd75bed5be64da9ff271868e7763c0aa",
     "https://Ouael-ben.github.io/PWAAPP/main.f40fc0a3b7ccf98da308.js": "fd5be3ade56a076c8c2a0108e038f597b3a3f1be",
     "https://Ouael-ben.github.io/PWAAPP/polyfills.8bbb231b43165d65d357.js": "ffa449995bf2eba2ccd0a002417214f7eb75e7b5",
     "https://Ouael-ben.github.io/PWAAPP/runtime.26209474bfa8dc87a77c.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
